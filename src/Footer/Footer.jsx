@@ -156,7 +156,7 @@ function Footer() {
                 }}
               />
               <Typography sx={{ marginTop: "5px" }}>
-                Phone: 9876540980, 8886655599
+                Phone: 9876540980
               </Typography>
             </Box>
             <Box display="flex" alignItems="center" gap={1} sx={{ mt: 1 }}>
